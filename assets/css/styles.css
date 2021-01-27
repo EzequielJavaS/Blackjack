@@ -28,7 +28,7 @@ html, body {
 
 /*///////////////////////////*/
 /* small mobile */
-@media only screen and (max-width:348px) {
+@media only screen and (max-height:823px) {
     .carta {
         position: relative;
         width: 100px;
